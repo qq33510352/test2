@@ -5,5 +5,6 @@ public class Testa {
 		System.out.println("ccc");
 		System.out.println("abc");
 		System.out.println("ddd");
+		System.out.println("¥Ú”°");
 	}
 }
